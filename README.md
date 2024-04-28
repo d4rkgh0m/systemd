@@ -1,7 +1,7 @@
 # Инициализация системы. Systemd
 Система инициализации. Systemd
 
-# **Prerequisite**
+# **Ситмное окружение**
 - Host OS: Arch Linux 64-bit Wayland kernel 6.8.7-zen1-2-zen
 - Guest OS: CentOS 7.8.2003
 - VirtualBox: 7.0.16 r162802
