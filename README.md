@@ -290,5 +290,6 @@ LISTEN     0      128       [::]:8082                  [::]:*                   
 Выполняемые при конфигурировании сервера команды перенесены в bash-скрипт для автоматического конфигурирования машины при развёртывании.
 После развёртывания машины стартуют сервисы `watchlog.timer`, `spawn-fcgi.service`, `httpd@first.service`, `httpd@second.service`.
 
-Полученный в ходе работы `Vagrantfile` и внешний скрипт `init.sh` для shell provisioner помещены в публичный репозиторий:
+Полученный в ходе работы `Vagrantfile` и внешний скрипт `init.sh` для shell provisioner помещены в публичный репозиторий: 
+- https://github.com/d4rkgh0m/systemd
 
